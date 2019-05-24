@@ -1,0 +1,23 @@
+{
+  "name": "App-Electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fariaa/App-Electron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fariaa/App-Electron/issues"
+  },
+  "homepage": "https://github.com/fariaa/App-Electron#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
